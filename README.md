@@ -151,5 +151,5 @@ Use the same password to decrypt the image and restore the original file.
 
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-```
+
 
